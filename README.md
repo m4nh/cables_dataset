@@ -3,18 +3,18 @@
 
 The cable dataset, used for Ariadne.
 
-<p>
-<img align='left' width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00000.jpg'/>
-<img align='left' width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00020.jpg'/>
-<img align='left' width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00050.jpg'/>
-<img align='left' width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_hard/00009.jpg'/>
+<p float="left">
+<img  width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00000.jpg'/>
+<img  width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00020.jpg'/>
+<img  width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00050.jpg'/>
+<img  width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_hard/00009.jpg'/>
 <br>
-<img align='left' width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00000_mask_all.png'/>
-<img align='left' width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00020_mask_all.png'/>
-<img align='left' width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00050_mask_all.png'/>
-<img align='left' width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_hard/00009_mask_all.png'/>
+<img  width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00000_mask_all.png'/>
+<img  width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00020_mask_all.png'/>
+<img  width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_simple/00050_mask_all.png'/>
+<img  width=200 src='https://raw.githubusercontent.com/m4nh/cables_dataset/master/cable_dataset_hard/00009_mask_all.png'/>
 </p>
-<p>
+<p >
 First row depicts four samples of rgb source images; Second row represents corresponding binary masks.
 </p>
 
