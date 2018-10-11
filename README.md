@@ -28,3 +28,17 @@ contains a list of source images with corresponding labels with the following co
   * **00000_mask_all.png**: is the binary mask for all cables in the image.
 * **00000.txt**: the M-th row of this file contains coordinates for the M-th cable in the image. Each row is in the following format ```x0 y0 x1 y1 ... xk yk```: it is the 
 list for the ```k``` coordinates of the simplified representation (spline control points) of the corresponding cable.
+
+## Citation
+
+If you use this dataset for your research, please cite our paper <a href="https://arxiv.org/abs/1810.04461">Let's take a Walk on Superpixels Graphs: Deformable Linear Objects Segmentation and Model Estimation</a>:
+
+```
+@article{degregorio2018,
+  title={
+Let's take a Walk on Superpixels Graphs: Deformable Linear Objects Segmentation and Model Estimation},
+  author={De Gregorio, Daniele and Palli, Gianluca and Di Stefano, Luigi},
+  journal={arXiv preprint arXiv:1810.04461},
+  year={2018}
+}
+```
