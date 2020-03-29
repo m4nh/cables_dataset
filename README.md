@@ -26,8 +26,8 @@ contains a list of source images with corresponding labels with the following co
 * **00000.jpg**: Source image
   * **00000_mask_N.png**: is the binary mask for the N-th cable.
   * **00000_mask_all.png**: is the binary mask for all cables in the image.
-* **00000.txt**: the M-th row of this file contains coordinates for the M-th cable in the image. Each row is in the following format ```x0 y0 x1 y1 ... xk yk```: it is the 
-list for the ```k``` coordinates of the simplified representation (spline control points) of the corresponding cable.
+* **00000.txt**: the M-th row of this file contains coordinates for the M-th cable in the image. Each row is in the following format: ```K x0 y0 x1 y1 ... xk yk```: it is the 
+list for the ```K``` coordinates of the simplified representation (spline control points) of the corresponding cable. (first numeber ```K``` si the number of coordinates pairs)
 
 ## Citation
 
